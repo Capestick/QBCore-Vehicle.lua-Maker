@@ -3,7 +3,7 @@ QBCore / Shared / Vehicle.lua  - Maker
 
 Hey guys! Back with some more usefull QBCore scripts!
 
-This is a CarPack And Single  QBCore / Shared / Vehicles.lua
+This is a CarPack And Single Vehicles  QBCore / Shared / Vehicles.lua
 
 This script will save you time writing out your vehicles.lua from car packs etc. Does it all in one click! Just make sure you get your spawn codes written down!
 
